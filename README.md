@@ -4,6 +4,7 @@
 [![Clang](https://github.com/strangeQuark1041/samarium/actions/workflows/clang.yml/badge.svg)](https://github.com/strangeQuark1041/samarium/actions/workflows/clang.yml)
 [![MSVC](https://github.com/strangeQuark1041/samarium/actions/workflows/msvc.yml/badge.svg)](https://github.com/strangeQuark1041/samarium/actions/workflows/msvc.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=strangeQuark1041_samarium&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=strangeQuark1041_samarium)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fsamarium.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fsamarium?ref=badge_shield)
 
 ![Lines of Code](https://img.shields.io/tokei/lines/github/strangeQuark1041/samarium)
 ![Repo Size](https://img.shields.io/github/repo-size/strangeQuark1041/samarium)
@@ -25,6 +26,9 @@ Samarium is a 2d physics simulation library written in modern C++20.
   - [Tools](#tools)
   - [Documentation](#documentation)
   - [License](#license)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fsamarium.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fsamarium?ref=badge_large)
 
 ## Samples
 
